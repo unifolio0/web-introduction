@@ -1,8 +1,15 @@
 div {
     border: 1px solid blue;
+    padding-bottom: 20px;
+    padding-left: 15px;
 }
 
 table, td, th {
     border: 1px solid black;
     border-collapse: collapse;
+}
+
+img {
+    width: 100px;
+    height: 150px;
 }
